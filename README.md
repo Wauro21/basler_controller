@@ -1,2 +1,3 @@
-# basler_controller
-Simple Controller for Basler Cameras
+# Basler Camera Controller
+
+Simple Controller for Basler Cameras. **WIP!**
